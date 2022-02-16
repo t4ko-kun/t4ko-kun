@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @t4ko-kun
-- 👀 I’m interested in all things FreeBSD and embedded programming
+- 👀 I’m interested in all things FreeBSD and Rust
 - 🌱 I’m currently studying Computer Science
 - 💞️ I’m looking to collaborate on fun cli and tui programs
 <!---
